@@ -3,20 +3,16 @@
  */
 package cc.lingfor;
 
+import java.util.ArrayList;
 
 public class App {
 
     public static void main(String[] args) {
 
-        //initiate a list of users
-
-        //generate storage token for each user
-
-        //add token into storage instance
+        
 
         //loop the list of users
 
-        //get token for each user
 
         //do upload
 
