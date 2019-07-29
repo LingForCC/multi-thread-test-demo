@@ -11,7 +11,7 @@ public class Storage {
     this.tokens = new HashMap<String, String>();
   }
 
-  public void addToken(User user) {
+  public void generateToken(User user) {
     String userId = user.getId();
     this.tokens.put(userId, userId);
   }
